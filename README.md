@@ -1,4 +1,4 @@
-# VeraDemo - Blab-a-Gag - Invoke scan
+# VeraDemo - Blab-a-Gag
 
 
 ## About
